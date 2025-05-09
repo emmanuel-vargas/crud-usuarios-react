@@ -2,7 +2,6 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
-  padding: 20px;
 }
 
 .container {
@@ -47,4 +46,7 @@ th, td {
   padding: 10px;
   text-align: left;
   border-bottom: 1px solid #ddd;
+}
+nav.navbar {
+  margin-bottom: 20px;
 }
